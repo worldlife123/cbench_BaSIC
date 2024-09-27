@@ -1,0 +1,4 @@
+torch==2.1.2
+torchvision==0.16.2
+pytorch-lightning==1.9.5
+numpy==1.23.5 # pth2.1 has compability issue with numpy2!

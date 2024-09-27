@@ -1,0 +1,22 @@
+numpy
+scipy
+pybind11
+pybind11_stubgen==0.16.2
+setuptools
+cython
+# -r requirements_pytorch1.7.1.txt
+tqdm
+pandas
+zstandard
+brotlipy
+networkx==2.6.3
+entmax==1.1
+adabelief-pytorch==0.2.0
+compressai==1.2.3
+scikit-image
+thop
+ptflops
+einops
+pytorch_msssim
+# craystack dep
+autograd
